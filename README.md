@@ -1,2 +1,2 @@
 # testrepository
-My first repository for test commit (Assignment 2)
+test commit entry
